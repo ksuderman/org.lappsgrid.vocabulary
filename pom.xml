@@ -14,4 +14,10 @@
     <description>LAPPS Vocabulary of annotation and feature names.</description>
     <name>LAPPS Vocabulary</name>
     <inceptionYear>2014</inceptionYear>
+    <distributionManagement>
+        <site>
+            <id>anc-scp</id>
+            <url>scp://suderman@anc.org:22022/home/www/anc/projects/lapps/vocabulary</url>
+        </site>
+    </distributionManagement>
 </project>
